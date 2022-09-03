@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning python
 
-
+- 🤔 I’m looking for help with data analysis
 <!--
 **kwon1015/kwon1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
